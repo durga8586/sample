@@ -2,6 +2,6 @@
 ```javascript
 console.log("test")
 ```
-```javascript
-console.log(21)
-```
+$$
+2 + 2 = 4
+$$
